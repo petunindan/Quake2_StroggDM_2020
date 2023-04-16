@@ -1,4 +1,4 @@
-# Quake2_StroggDM_2020 (KMQuake2 branch)
+# Quake2_StroggDM_2020
 An unique mod that allows you to play for any of the monsters of the original Quake 2 and its add-ons, fixed and ported to KMQuake2 engine
 
 ## Branches
