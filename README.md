@@ -1,5 +1,5 @@
 # Quake2_StroggDM_2020
-A unique mod that allows you to play for any of the monsters of the original Quake 2 and its add-ons, fixed and ported to KMQuake2 engine
+An unique mod that allows you to play for any of the monsters of the original Quake 2 and its add-ons, fixed and ported to KMQuake2 engine
 
 
 Mod creator: Paril
